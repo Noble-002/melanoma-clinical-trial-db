@@ -1,7 +1,7 @@
 Phase II Melanoma Combination Therapy Database (PostgreSQL)
 
 Project Overview
-This relational database models a clinical trial tracking targeted combination therapies (BRAF/MEK inhibitors) in patients with metastatic BRAF V600E mutant melanoma. It specifically evaluates how expression levels of **UCHL1** correlate with treatment resistance and tumor volume changes.
+This relational database models a clinical trial tracking targeted combination therapies (BRAF/MEK inhibitors) in patients with metastatic BRAF V600E mutant melanoma. It specifically evaluates how expression levels of UCHL1 correlate with treatment resistance and tumor volume changes.
 
 Tech Stack & Data Engineering
 - Database System: PostgreSQL
